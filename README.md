@@ -1,3 +1,3 @@
-# webgl-tetris [(try live)](https://domdomegg.github.io/webgl-tetris/)
+# webgl-tetris [(try live)](https://adamjones.me/webgl-tetris/)
 
 A slightly messy implementation of Tetris in WebGL.
